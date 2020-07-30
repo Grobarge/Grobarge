@@ -1,5 +1,6 @@
 ### Hi there 👋
 - ⚡ Fun fact: You can play almost any Grateful Dead concert and I will be able to name the year of the show just by how it sounds ! 
+<img src="https://media.giphy.com/media/l3zoJcPxBD4qYFrws/giphy.gif" width="1000" height="300" />
 <!--
 **Grobarge/Grobarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
