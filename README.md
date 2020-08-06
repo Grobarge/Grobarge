@@ -4,6 +4,13 @@
  - 🍿 Favorite Food: Popcorn 
 
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="1000" height="300" />
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Grobarge&show_icons=true&theme=cobalt&count_private=true)
+
+
+
+
 <!--
 **Grobarge/Grobarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
