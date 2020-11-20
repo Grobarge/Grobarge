@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
  - ⚡ Fun fact: You can play almost any Grateful Dead concert and I will be able to name the year of the show just by how it sounds ! 
  - 💬 Favorite Quote: "Without love in a dream it will never come true"
  - 🍿 Favorite Food: Popcorn 
